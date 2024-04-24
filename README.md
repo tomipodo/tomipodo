@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lauro <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
+<h1 align="center">Hola 👋, Soy Tomas <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F73131&background=FFFFFF00&random=false&width=435&lines=Tomas+Eitan+Podolsky)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on my **Python Course**
 
