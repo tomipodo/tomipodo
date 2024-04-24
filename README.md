@@ -5,9 +5,9 @@
 
 - 👯 Estoy buscando un trabajo Part-time en desarrollo **front-end y back-end**
 
-- 📍 Soy de **Buenos Aires, Argentina**, el **26/05/2004**
+- 📍&nbsp;&nbsp;&nbsp;Soy de **Buenos Aires, Argentina**, el **26/05/2004**
 
-- Tocó la guitarra en <a href="https://www.instagram.com/codificados.ok"> **Codificados** </a>
+- 🎸Tocó la guitarra en <a href="https://www.instagram.com/codificados.ok"> **Codificados** </a>
 
 
 
