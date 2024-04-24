@@ -1,27 +1,26 @@
-<h1 align="center">Hola 👋, Soy Tomas <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F73131&background=FFFFFF00&random=false&width=435&lines=Tomas+Eitan+Podolsky)](https://git.io/typing-svg)
+<h1 align="center">Hola 👋, Soy Tomas <img height="40"></h1>
+<p align="center">   <a> <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=orange&size=25&center=true&vCenter=true&width=600&height=100&lines=Tomas+Eitan+Podolsky;"> </a> </p>
 
-- 🔭 I’m currently working on my **Python Course**
+- 📚 Estoy cursando tercer año de **Ingeniería en Sistemas De Información** en **UTN FRBA**
 
-- 🌱 I’m currently learning **Python, HTML5 and CSS3**
+- 👯 Estoy buscando un trabajo Part-time en desarrollo **front-end y back-end**
 
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
+- 📍 Soy de **Buenos Aires, Argentina**, el **26/05/2004**
 
-- 📫 How to reach me: **brantlauro@gmail.com**
+- Tocó la guitarra en <a href="https://www.instagram.com/codificados.ok"> **Codificados** </a>
 
-- ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
 
-<h3 align="center">Connect with me:</h3>
+
+## <h3 align="center">Conecta conmigo</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauro_brant-1/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brantlauro/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brantlauro)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.brantlauro@gmail.com)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tpodolsk/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tomipodo/)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomaspodolsk@gmail.com)
   
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
+## <h3 align="center">Herramientas</h3>
 
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -45,12 +44,9 @@
 </p>
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomipodo&theme=react&layout=compact" />
 </p>
 
 ------
 
-[BrantLauro](https://github.com/BrantLauro)
-
-Last Edited on: 05/08/2021
+[Tomipodo](https://github.com/Tomipodo)
